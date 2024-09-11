@@ -1,4 +1,4 @@
-# Proyecto de Machine Learning 🤖 
+# Evaluación de Machine Learning 🤖 
 
 Este repositorio contiene la solución a cuatro problemas de Machine Learning, cada uno de ellos resuelto utilizando diferentes algoritmos y enfoques.
 Los problemas varían desde la predicción del precio de viviendas hasta la detección de fraudes bancarios, pasando por la clasificación de correos spam y la recomendación de películas.
