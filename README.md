@@ -78,7 +78,7 @@ personalizadas.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-# Problema 4️⃣: Detección de Fraude en Transacciones Bancarias**
+# Problema 4️⃣: Detección de Fraude en Transacciones Bancarias
 
 Descripción:
 Este problema busca detectar si una transacción bancaria es fraudulenta o no, utilizando patrones históricos de transacciones.
